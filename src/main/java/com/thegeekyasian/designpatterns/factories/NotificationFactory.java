@@ -1,9 +1,7 @@
 package com.thegeekyasian.designpatterns.factories;
 
 import com.thegeekyasian.designpatterns.strategies.NotificationService;
-import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 import org.springframework.stereotype.Component;
 
 /**
@@ -23,10 +21,9 @@ public class NotificationFactory {
 
   /**
    * Uses constructor-autowiring to create a new NotificationFactory instance
-   * with the provided list of NotificationService instances.
-   * Initializes the notificationServiceMap using a stream collector.
+   * with the provided map of NotificationService instances.
    *
-   * @param notificationServices a list of NotificationService instances
+   * @param notificationServices a map of NotificationService instances
    */
   public NotificationFactory(Map<String, NotificationService> notificationServices) {
     this.notificationServiceMap = notificationServices;
