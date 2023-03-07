@@ -29,7 +29,7 @@ Sending SMS
 ## How was it done?
 To understand further, you can go through a step-by-step guide that I have created on how it was implemented.
 
-The guide is available **[HERE](https://thegeekyasian.com/strategy-and-factory-design-patterns-the-right-way/)**.
+The guide is available **[HERE](https://thegeekyasian.com/strategy-pattern-spring-boot/)**.
 
 ## Help
 
