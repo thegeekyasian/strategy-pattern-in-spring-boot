@@ -1,9 +1,9 @@
-# Strategy and Factory Design Patterns in Spring Boot
+# Strategy Design Pattern in Spring Boot
 
 [![Discord](https://img.shields.io/badge/discord-design_patterns-purple)](https://discord.gg/kNhgfK8pNg)
 [![Twitter](https://img.shields.io/badge/twitter-thegeekyasian-9cf)](https://www.twitter.com/thegeekyasian)
 
-Discover the simplest and most effective way to implement strategy and factory design patterns in Spring Boot with the provided implementation. 
+Discover the simplest and most effective way to implement strategy patterns in Spring Boot with the provided implementation. 
 
 This project provides clear and concise examples of these powerful design patterns in action, along with detailed explanations that make it easy to understand and apply them to your own Spring Boot projects. 
 
